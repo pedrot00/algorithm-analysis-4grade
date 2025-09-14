@@ -2,6 +2,8 @@
     "files.associations": {
         "thread": "cpp",
         "barrier": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "iostream": "cpp",
+        "atomic": "cpp"
     }
 }
