@@ -1,4 +1,5 @@
-//utilizar para compilacaog++ -std=c++20 main.cpp -pthread -o main
+//INF310 - Pedro S. Teixeira - 116224
+//utilizar para compilacao g++ -std=c++20 main.cpp -pthread -o main
 
 #include <iostream>
 #include <vector>
