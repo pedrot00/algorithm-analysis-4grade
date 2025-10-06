@@ -3,6 +3,7 @@
         "cmath": "cpp",
         "ostream": "cpp",
         "iostream": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "condition_variable": "cpp"
     }
 }
